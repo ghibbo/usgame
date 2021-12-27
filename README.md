@@ -18,3 +18,6 @@ Try a State in the TextBox and Win!!!
 
 **Score**:\
 Guessed/50 States
+
+**Exit & Learn**:\
+Type `exit` in the TextBox for quit and generate file "state_to_learn.csv" conteneid missed states 
