@@ -13,8 +13,8 @@
 **Board**: \
 ![](app.png)
 
-*Game*:\
+**Game**:\
 Try a State in the TextBox and Win!!!
 
-*Score*:\
+**Score**:\
 Guessed/50 States
